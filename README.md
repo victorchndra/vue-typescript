@@ -1,4 +1,4 @@
-# vue-typescript2
+# vue-typescript
 
 ## Project setup
 ```
