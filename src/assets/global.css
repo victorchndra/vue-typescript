@@ -4,3 +4,13 @@ body {
   font-family: 'Open Sans';
   background: #ece6d9;
 }
+
+@font-face {
+  font-family: SFProDisplay;
+  src: url("SFPRODISPLAYREGULAR.OTF") format("opentype");
+}
+
+h1 {
+  font-family: SFProDisplay;
+  letter-spacing: 4px;
+}
